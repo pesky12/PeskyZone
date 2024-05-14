@@ -208,6 +208,10 @@ hr {
   object-fit: cover;
   background-position: center;
   border-radius: 50%;
+  /* pink glow */
+  box-shadow: 0 0 64px 2px #f500f8;
+  /* border */
+  border: 3px solid #f500f8;
 }
 
 /* open-sans-regular - vietnamese_latin-ext_latin_hebrew_greek-ext_greek_cyrillic-ext_cyrillic */
