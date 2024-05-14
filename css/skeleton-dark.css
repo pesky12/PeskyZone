@@ -90,6 +90,9 @@ html {
   color-scheme: dark;
 }
 body {
+  /* Text color */
+  color: white;
+  background-color: black;
   font-size: 18px;
   line-height: 24px;
   font-weight: 400;
